@@ -14,4 +14,11 @@ response.
 
 This Smart Stick project aims to significantly enhance the independence and
 safety of visually impaired individuals, providing a comprehensive solution for their unique
-mobility challenges
+mobility challenges.
+
+Below given is the working of the prototype:
+
+
+
+https://github.com/user-attachments/assets/a490a73c-6b5f-49dd-94ac-b02de19907ff
+
